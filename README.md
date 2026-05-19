@@ -185,8 +185,8 @@ Neither era is significant alone: splitting 104 games into 52 reduces statistica
 | Situation | Cover Rate | P-Value | Market Efficient? |
 |---|---|---|---|
 | Baseline | 46.6% | — | — |
-| Bye Week Favorite | 45.2% | 0.9533 | ✅ Yes — fully priced in |
-| **Short Week Away Favorite** | **41.3%** | **0.0475** | ❌ No — edge persists |
+| Bye Week Favorite | 45.2% | 0.9533 | Yes — fully priced in |
+| **Short Week Away Favorite** | **41.3%** | **0.0475** | No — edge persists |
 
 **Bye week favorites show no edge (p=0.9533).** The market has fully priced in rest advantages as books shade the line accordingly and by the time the public bets, the advantage is already extracted from the spread.
 
